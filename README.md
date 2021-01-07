@@ -6,6 +6,7 @@ I'm Ruby Lazuli \[she/her], a systems/backend/application developer. Pleased to 
 
 ### Current projects
 * Project Triplicata \[private] - a game engine and associated game
+* Laria \[may be open-sourced eventually™] - a statically-typed, embeddable scripting language associated with Project Triplicata
 * [plspet](https://pls.pet) \[will be open-sourced eventually™] - a file hosting site with tagging and a gallery
 
 ### Stalled projects I intend to get back to some day
