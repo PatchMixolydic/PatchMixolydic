@@ -26,25 +26,10 @@ I'm Ruby Lazuli \[she/her], a systems/backend/application developer. Pleased to 
 
 ### Contact me
 * Twitter: [@patchmixolydic](https://twitter.com/patchmixolydic)
-* GitHub: [PatchMixolydic/PatchMixolydic](https://github.com/PatchMixolydic/PatchMixolydic/issues)
+* GitHub: [PatchMixolydic/PatchMixolydic](https://github.com/PatchMixolydic/PatchMixolydic/discussions)
 
 ### Support me
 If I did something well, please consider supporting me! I'm a college student doing most of this in my
 free time, so any support would be greatly appreciated!
 
 [![Support me on ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J329CNL)
-
-<!--
-**PatchMixolydic/PatchMixolydic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
