@@ -5,9 +5,10 @@
 I'm Ruby Lazuli \[she/her], a systems/backend/application developer. Pleased to meet you!
 
 ### Current projects
-* Project Triplicata \[private] - a game engine and associated game
+* <ruby>東方魔出現 <rp>(</rp><rt>Touhou Mashutsugen</rt><rp>)</rp></ruby> 〜 Devil's Emergence (working title, closed source) - a Touhou fangame in the style of the PC-9801 Touhou games
+  * Project Triplicata (closed source) - the engine for this and future games
 * [Laria](https://github.com/PatchMixolydic/laria) - a statically-typed, embeddable scripting language associated with Project Triplicata
-* [plspet](https://pls.pet) \[will be open-sourced eventually™] - a file hosting site with tagging and a gallery
+* [plspet](https://pls.pet) (will be open-sourced eventually™) - a file hosting site with tagging and a gallery
 
 ### Stalled projects I intend to get back to some day
 * [Nightbug](https://github.com/PatchMixolydic/nightbug) - a Lisp-like programming language
