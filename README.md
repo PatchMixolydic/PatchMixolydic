@@ -2,28 +2,30 @@
 
 [![Ruby's github stats](https://github-readme-stats.vercel.app/api?username=patchmixolydic)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Ruby Lazuli \[she/her], a systems/backend/application developer. Pleased to meet you!
+I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer. Pleased to meet you!
 
 ### Current projects
 * <ruby>東方魔出現 <rp>(</rp><rt>Touhou Mashutsugen</rt><rp>)</rp></ruby> 〜 Devil's Emergence (working title, closed source) - a Touhou fangame in the style of the PC-9801 Touhou games
-  * Project Triplicata (closed source) - the engine for this and future games
-* [Laria](https://github.com/PatchMixolydic/laria) - a statically-typed, embeddable scripting language associated with Project Triplicata
+  * Triplicata (closed source) - the engine for this and future games
+* [Laria](https://github.com/PatchMixolydic/laria) - a statically-typed, embeddable scripting language associated with Triplicata
 * [plspet](https://pls.pet) (will be open-sourced eventually™) - a file hosting site with tagging and a gallery
 
 ### Stalled projects I intend to get back to some day
-* [Nightbug](https://github.com/PatchMixolydic/nightbug) - a Lisp-like programming language
-* [Spinel](https://github.com/PatchMixolydic/spinel) - an x86_64 operating system
+* [Nightbug](https://github.com/PatchMixolydic/nightbug) - an S-expression-based programming language
 
 ### Interests
 * [Rust](https://rust-lang.org)
 * Compilers
 * Operating systems
 * Programming language design
-* Type theory\[?]
+* Application design
+* Type theory
 
 #### Outside of programming
 * Retrocomputing
 * Touhou Project
+* Composition?
+* Art?
 
 ### Contact me
 * Twitter: [@patchmixolydic](https://twitter.com/patchmixolydic)
