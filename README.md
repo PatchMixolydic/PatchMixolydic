@@ -5,7 +5,7 @@
 I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer. Pleased to meet you!
 
 ### Current projects
-* [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog documenting project updates and development misadventures
+* [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
 * <ruby>東方魔出現 <rp>(</rp><rt>Touhou Mashutsugen</rt><rp>)</rp></ruby> 〜 Devil's Emergence (working title, closed source) - a Touhou fangame in the style of the PC-9801 Touhou games
   * Triplicata (closed source) - the engine for this and future games
 * [Laria](https://github.com/PatchMixolydic/laria) - a statically-typed, embeddable scripting language associated with Triplicata
