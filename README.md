@@ -20,14 +20,13 @@ I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer.
 * Operating systems
 * Programming language design
 * Application development
-* Type theory
-* Writing technical documentation
+* Technical documentation
 
 #### Outside of programming
 * Retrocomputing
 * Touhou Project
-* Writing?
-* Composition?
+* Writing
+* Composing music?
 * Art?
 
 ### Contact me
