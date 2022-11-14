@@ -1,7 +1,4 @@
 ## Welcome
-
-[![Ruby's github stats](https://github-readme-stats.vercel.app/api?username=patchmixolydic)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer. Pleased to meet you!
 
 ### Current projects
