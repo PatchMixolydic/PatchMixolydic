@@ -27,8 +27,9 @@ I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer.
 * Art?
 
 ### Contact me
-* Twitter: [@patchmixolydic](https://twitter.com/patchmixolydic)
+* Mastodon: [@PatchMixolydic@mastodon.sdf.org](https://mastodon.sdf.org/@PatchMixolydic)
 * GitHub: [PatchMixolydic/PatchMixolydic](https://github.com/PatchMixolydic/PatchMixolydic/discussions)
+* Twitter: [@patchmixolydic](https://twitter.com/patchmixolydic)
 
 ### Support me
 If I did something well, please consider supporting me! I'm a college student doing most of this in my
