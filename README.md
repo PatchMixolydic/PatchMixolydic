@@ -5,11 +5,12 @@ I've recently started moving my projects to [Codeberg](https://codeberg.org/Patc
 Feel free to have a look!
 
 ### Current projects
-* [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
 * [<ruby>東方魔出現 <rp>(</rp><rt>Touhou Mashutsugen</rt><rp>)</rp></ruby> 〜 Devil's Emergence](https://patchmixolydic.itch.io/devils-emergence) (closed source) - a Touhou fangame in the style of the PC-9801 Touhou games
   * Triplicata (closed source) - the engine for this and future games
 * [Laria](https://codeberg.org/PatchMixolydic) - a statically-typed, embeddable scripting language associated with Triplicata
+* Princess-Officer Investigations – an Ace Attorney Investigations-style Touhou fangame
 * [plspet](https://pls.pet) (will be open-sourced eventually™) - a file hosting site with tagging and a gallery
+* [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
 
 ### Stalled projects I intend to get back to some day
 * [Nightbug](https://github.com/PatchMixolydic/nightbug) - an S-expression-based programming language
