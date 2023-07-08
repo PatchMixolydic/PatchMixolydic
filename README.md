@@ -8,7 +8,7 @@ Feel free to have a look!
 * [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
 * [<ruby>東方魔出現 <rp>(</rp><rt>Touhou Mashutsugen</rt><rp>)</rp></ruby> 〜 Devil's Emergence](https://patchmixolydic.itch.io/devils-emergence) (closed source) - a Touhou fangame in the style of the PC-9801 Touhou games
   * Triplicata (closed source) - the engine for this and future games
-* [Laria](https://github.com/PatchMixolydic/laria) - a statically-typed, embeddable scripting language associated with Triplicata
+* [Laria](https://codeberg.org/PatchMixolydic) - a statically-typed, embeddable scripting language associated with Triplicata
 * [plspet](https://pls.pet) (will be open-sourced eventually™) - a file hosting site with tagging and a gallery
 
 ### Stalled projects I intend to get back to some day
@@ -24,6 +24,7 @@ The following projects will no longer receive updates on GitHub:
 * [`resize-xcursor`](https://codeberg.org/PatchMixolydic/resize-xcursor)
 * [`fls` fork](https://codeberg.org/PatchMixolydic/fls)
 * Project Little Rabbit (private, moved to git.patchmixolydic.com)
+* [Laria](https://codeberg.org/PatchMixolydic)
 
 ### Interests
 * [Rust](https://rust-lang.org)
