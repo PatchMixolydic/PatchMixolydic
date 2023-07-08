@@ -21,6 +21,9 @@ The following projects will no longer receive updates on GitHub:
 * Devil's Emergence (private, moved to git.patchmixolydic.com)
 * patchmixolydic.com (temporarily private, moved to git.patchmixolydic.com)
 * [Proverb](https://codeberg.org/PatchMixolydic/proverb)
+* [`resize-xcursor`](https://codeberg.org/PatchMixolydic/resize-xcursor)
+* [`fls` fork](https://codeberg.org/PatchMixolydic/fls)
+* Project Little Rabbit (private, moved to git.patchmixolydic.com)
 
 ### Interests
 * [Rust](https://rust-lang.org)
