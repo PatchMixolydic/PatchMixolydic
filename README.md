@@ -1,5 +1,8 @@
 ## Welcome
-I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer. Pleased to meet you!
+I'm Ruby Lazuli (she/her), a Rust enthusiast and backend/application developer. Pleased to meet you!
+
+I've recently started moving my projects to [Codeberg](https://codeberg.org/PatchMixolydic) and [a self-hosted Git forge](https://git.patchmixolydic.com).
+Feel free to have a look!
 
 ### Current projects
 * [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
@@ -10,6 +13,14 @@ I'm Ruby Lazuli \[she/her], a Rust enthusiast and backend/application developer.
 
 ### Stalled projects I intend to get back to some day
 * [Nightbug](https://github.com/PatchMixolydic/nightbug) - an S-expression-based programming language
+
+### Migrated projects
+The following projects will no longer receive updates on GitHub:
+
+* Triplicata (private, moved to git.patchmixolydic.com)
+* Devil's Emergence (private, moved to git.patchmixolydic.com)
+* patchmixolydic.com (temporarily private, moved to git.patchmixolydic.com)
+* [Proverb](https://codeberg.org/PatchMixolydic/proverb)
 
 ### Interests
 * [Rust](https://rust-lang.org)
