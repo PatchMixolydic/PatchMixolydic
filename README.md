@@ -1,7 +1,7 @@
 ## Welcome
 I'm Ruby Lazuli (she/her), a Rust enthusiast and backend/application developer. Pleased to meet you!
 
-I've recently started moving my projects to [Codeberg](https://codeberg.org/PatchMixolydic) and [a self-hosted Git forge](https://git.patchmixolydic.com).
+I've moved most of my active projects to [Codeberg](https://codeberg.org/PatchMixolydic) and [a self-hosted Git forge](https://git.patchmixolydic.com).
 Feel free to have a look!
 
 ### Current projects
@@ -11,21 +11,6 @@ Feel free to have a look!
 * Princess-Officer Investigations – an Ace Attorney Investigations-style Touhou fangame
 * [plspet](https://pls.pet) (will be open-sourced eventually™) - a file hosting site with tagging and a gallery
 * [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
-
-### Stalled projects I intend to get back to some day
-* [Nightbug](https://github.com/PatchMixolydic/nightbug) - an S-expression-based programming language
-
-### Migrated projects
-The following projects will no longer receive updates on GitHub:
-
-* Triplicata (private, moved to git.patchmixolydic.com)
-* Devil's Emergence (private, moved to git.patchmixolydic.com)
-* patchmixolydic.com (temporarily private, moved to git.patchmixolydic.com)
-* [Proverb](https://codeberg.org/PatchMixolydic/proverb)
-* [`resize-xcursor`](https://codeberg.org/PatchMixolydic/resize-xcursor)
-* [`fls` fork](https://codeberg.org/PatchMixolydic/fls)
-* Project Little Rabbit (private, moved to git.patchmixolydic.com)
-* [Laria](https://codeberg.org/PatchMixolydic/laria)
 
 ### Interests
 * [Rust](https://rust-lang.org)
