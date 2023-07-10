@@ -25,7 +25,7 @@ The following projects will no longer receive updates on GitHub:
 * [`resize-xcursor`](https://codeberg.org/PatchMixolydic/resize-xcursor)
 * [`fls` fork](https://codeberg.org/PatchMixolydic/fls)
 * Project Little Rabbit (private, moved to git.patchmixolydic.com)
-* [Laria](https://codeberg.org/PatchMixolydic)
+* [Laria](https://codeberg.org/PatchMixolydic/laria)
 
 ### Interests
 * [Rust](https://rust-lang.org)
