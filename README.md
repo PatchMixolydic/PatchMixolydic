@@ -30,6 +30,7 @@ Feel free to have a look!
 ### Contact me
 * Mastodon: [@PatchMixolydic@mastodon.sdf.org](https://mastodon.sdf.org/@PatchMixolydic)
 * GitHub: [PatchMixolydic/PatchMixolydic](https://github.com/PatchMixolydic/PatchMixolydic/discussions)
+* Codeberg: [PatchMixolydic/PatchMixolydic](https://codeberg.org/PatchMixolydic/PatchMixolydic/issues)
 
 ### Support me
 If I did something well, please consider supporting me! I'm a college student doing most of this in my
