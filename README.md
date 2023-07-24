@@ -7,7 +7,7 @@ Feel free to have a look!
 ### Current projects
 * [<ruby>東方魔出現 <rp>(</rp><rt>Touhou Mashutsugen</rt><rp>)</rp></ruby> 〜 Devil's Emergence](https://patchmixolydic.itch.io/devils-emergence) (closed source) - a Touhou fangame in the style of the PC-9801 Touhou games
   * Triplicata (closed source) - the engine for this and future games
-* [Laria](https://codeberg.org/PatchMixolydic) - a statically-typed, embeddable scripting language associated with Triplicata
+* [Laria](https://codeberg.org/PatchMixolydic/laria) - a statically-typed, embeddable scripting language associated with Triplicata
 * Princess-Officer Investigations – an Ace Attorney Investigations-style Touhou fangame
 * [plspet](https://pls.pet) (will be open-sourced eventually™) - a file hosting site with tagging and a gallery
 * [Junction Point of Reality and Fantasy](https://patchmixolydic.com/) - a blog containing project updates and development misadventures
