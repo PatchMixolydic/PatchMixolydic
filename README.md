@@ -28,7 +28,7 @@ Feel free to have a look!
 * Art?
 
 ### Contact me
-* Mastodon: [@PatchMixolydic@mastodon.sdf.org](https://mastodon.sdf.org/@PatchMixolydic)
+* Mastodon: [@PatchMixolydic@patchmixolydic.com](https://social.patchmixolydic.com/@PatchMixolydic)
 * GitHub: [PatchMixolydic/PatchMixolydic](https://github.com/PatchMixolydic/PatchMixolydic/discussions)
 * Codeberg: [PatchMixolydic/.profile](https://codeberg.org/PatchMixolydic/.profile/issues)
 
